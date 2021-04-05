@@ -12,3 +12,7 @@ pip2 install -r requirements.txt
 
 python2 DarkFB.py
 
+Catatan:
+
+Jikan ingin menambahkan list password edit dengan perintah:
+nano password.bin
